@@ -1,0 +1,15 @@
+a:hover {
+    cursor: pointer;
+    background-color: yellow;
+} 
+.box{
+    width: 100%;
+    margin: 0 auto;
+    text-align:center;
+
+}
+
+#search {
+    margin: 0 auto;
+    display: inline-block;
+}
